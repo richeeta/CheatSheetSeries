@@ -247,6 +247,7 @@ examples of data that should not be logged.
 - Disable backup mode to prevent sensitive data being stored in backups.
 
 ### iOS and iPadOS
+
 #### Shortcuts Permissions
 
 - iOS/iPadOS Shortcuts allow for automation of app functions, which may enable sensitive actions even when the device is locked.
